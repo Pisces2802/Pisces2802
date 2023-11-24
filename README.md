@@ -1,4 +1,4 @@
-I'm a web developer and technical writer who currently interns at Fort Tyres as a front-end web developer. I'm passionate about breaking down complex technical concepts into granular and beginner-friendly write-ups for everyone and also building cool stuff.
+My name is David Olalye. I'm a web developer, technical writer, and tutor who currently interns at Fort Tyres as a front-end web developer. I'm passionate about breaking down complex technical concepts into granular and beginner-friendly write-ups for everyone and also building cool stuff.
 
 Here's a quick summary about me:
 

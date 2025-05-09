@@ -3,6 +3,6 @@ My name is David Olalye. I'm a web developer, technical writer, and tutor who cu
 Here's a quick summary about me:
 
 * 🌱 I’m learning JavaScript, Reactjs, and other front-end web technologies.
-* 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-* 💼 Job interests: Front-end Engineer, or UI Engineer (Intern or Junior level).
+* 😊 I’m seeking help with open-source projects, hackatons and assiciate roles 
+* 💼 Job interests: Front-end Engineer, or UI Engineer (Associate)
 * 📫 You can view my resume and contact me by emailing olaoluwaolaleye@gmail.com.
